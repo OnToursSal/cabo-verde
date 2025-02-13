@@ -5,3 +5,9 @@
 body {
   background-color: rgba(21.241.224..5);
 }
+
+.titleBar {
+  line-height: 2em;
+  color: rgba(255, 236, 204, 1);
+  background-color: rgba(0, 184, 228, 1);
+}
